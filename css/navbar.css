@@ -1,0 +1,8 @@
+#navigation{
+	position: fixed;
+}
+
+.container-fluid{
+	background-color: yellow;
+	border-color: red; 
+}
